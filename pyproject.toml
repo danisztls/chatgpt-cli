@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "llmux"
-version = "0.2.1"
+version = "0.2.2"
 description = "LLM inference for power users."
 authors = ["Daniel Souza"] # run 'git shortlog -sne' to get a better list 
 homepage = "https://github.com/danisztls/llmux"
